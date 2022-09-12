@@ -1,0 +1,3 @@
+Caracteristicas actuales del portal: 
+1) En cuanto a Frontend: 
+2) En cuanto a Backend:

@@ -1,0 +1,25 @@
+1) Portal Universidad Mayor (Home):https://www.umayor.cl/um/santiago-portales/10000
+ A) La plataforma de la Universidad Mayor, esta dividido en varios portales, que se podria interpretar como sub modulos (Informativos, academicos, administrativos y de pagos). Ademas posee un codigo QR para descargar la APP "Mundo Mayor", la cual ofrece información suponiendo de los modulos mencionados anteriormente. 
+
+ A.1) Dentro del portal de vida academica (Para Estudiantes), hay una introducción para su ingreso, tanto en la inscripcion e información de cursos, Horarios, Calificaciones, Avance curricular. (Para academicos), la planificación de asignaturas, Horarios, calificaciones y Asistencia. Su ingreso es por microsoft. 
+URL: https://login.microsoftonline.com/0dc2d1a0-913c-4a0d-b1a7-3e857d4cccdb/saml2
+
+ A.2) El portal financiero tambien es destacable, como sub modulo, directamente te redirecciona a la pagina de pagos. Al entrar nos muestra una alerta en la cual nos explica el formato en los cuales debemos ingresar nuestros datos. Mediante RUT, fecha de nacimiento y un Captcha.
+
+ A.3) No posee chatbot.
+
+2) Portal Universidad Autonoma (Home/ Adaptable a dispositivos):https://www.uautonoma.cl/estudiantes/ 
+ A) Posee un chatbot, en el cual podemos consultar como invitado informacion general o tambien ingresar el correo institucional para entrar como estudiante y obtener informacional personal y especifica.
+
+ A.1) En su home tiene modulos en los cuales puedes acceder al portal, tambien mediante RUT y clave. 
+
+3) Universidad Catolica del Maule (Home/ Adaptable a dispositivos):
+ A) El login del portal de la universidad, es basico visualmente, no tiene muchos recursos innecesarios.
+*Ademas se adapta a las diferentes resoluciones de pantalla, donde visualiza los objetos mas importantes, en este caso la interfaz de login, que finalmente es el proposito.
+ A.1) Luego de ingresar al portal, nos apareceran 3 modulos
+
+
+  
+
+ 
+ 
